@@ -8,8 +8,7 @@
 </p>
 
 <p align="center">
-  <em>"The only secure system is the one that's powered off."</em><br>
-  <strong>— Lutfifakee</strong>
+  <em>"The only secure system is the one that's powered off."</em>
 </p>
 
 ---
